@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">biblioteca</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="nao_tem_cadrastro">Nao Tem Cadrastro?</string>
+    <string name="foto">Foto Do Usuário</string>
+</resources>
